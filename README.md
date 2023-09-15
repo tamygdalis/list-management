@@ -1,0 +1,24 @@
+# list-management
+https://expressjs.com/en/starter/hello-world.html : Express JS tutorial (Hello world example)
+https://expressjs.com/en/starter/static-files.html: Serve static files (html, css, js)
+https://www.geeksforgeeks.org/express-js-express-urlencoded-function/: Url encode / decode
+https://www.tutorialspoint.com/express-js-express-json-function: Json Parse
+
+https://github.com/nufyoot/createsend-node : Βρήκα εναν wrapper για το API για nodejs αλλα δεν τον χρησιμοποιησα γιατι ειδα πως ειναι outdated
+για την ομαλη λειτουργεια της εφαρμογης κάλεσα απευθείας το api τους μέσω http request.
+
+Στην αρχη δοκιμασα το fetch api, αλλα είδα οτι δεν ηταν διαθεσιμο στην version του node που εχω εγκατεστημενη.
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+
+Για να πραγματοποιησω http requests για την επικοινωνια με το api εκανα χρηση του axios
+https://www.npmjs.com/package/axios
+
+Για να δω ποια endpoints θα πρεπει να καλεσω μπηκα στο https://www.campaignmonitor.com/api/v3-3/lists/#active-subscribers-2
+
+Bootstrap getting started (HTML template)
+https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
+Είδα ενα example με το submit button και το πήρα ετοιμο.
+
+Βρηκα τα Webhooks https://www.campaignmonitor.com/api/v3-3/webhooks/
+αλλα παρατηρησα πολυπλοκοτητα
